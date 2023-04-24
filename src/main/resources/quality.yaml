@@ -1,0 +1,9 @@
+quality:
+  default: 'bestvideo[width<=854]+bestaudio/best[width<=854]'
+  best: 'bestvideo+bestaudio/bestvideo+bestaudio'
+  1920:  'bestvideo[width<=1920]+bestaudio/best[width<=1920]'
+  1280:  'bestvideo[width<=1280]+bestaudio/best[width<=1280]'
+  854:  'bestvideo[width<=854]+bestaudio/best[width<=854]'
+  640:  'bestvideo[width<=640]+bestaudio/best[width<=640]'
+  426:  'bestvideo[width<=426]+bestaudio/best[width<=426]'
+  256:  'bestvideo[width<=256]+bestaudio/best[width<=256]'
